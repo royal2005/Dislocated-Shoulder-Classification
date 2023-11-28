@@ -1,6 +1,6 @@
 # Dislocation Shoulder Detection
 ### About the project
-Welcome to my project 
+Welcome to my project, 
 The project is about X-ray shoulders scans classification 
 to a normal shoulders and to a dislocated shoulders
 The project involve a full journey of a data scientist
